@@ -1,0 +1,5 @@
+No servers to provision, manage, or upgrade
+Automatically scale based on the load
+Integrated monitoring, logging, and debugging capability
+Built-in security at role and per function level based on the principle of least privilege
+Key networking capabilities for hybrid and multi-cloud scenarios
